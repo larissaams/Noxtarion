@@ -7,6 +7,13 @@
   Larissa -- RM:564168
 
   Raira -- RM:564850
+##  Naming Rationale
+
+Escolhemos o nome Noxtarion por transmitir uma sensação de fantasia, mistério e aventura, elementos que fazem parte do universo dos RPGs. Também queremos que o nome represente a proposta do aplicativo de ser mais do que uma ferramenta para organizar fichas: Noxtarion funciona como um ponto de encontro entre jogadores, mestres, campanhas e histórias. A ideia é criar um universo onde diferentes aventuras possam ser criadas, gerenciadas, compartilhadas e descobertas.
+
+#Tom de Voz
+O Noxtarion possui um tom de voz jovem, aventureiro, acolhedor e levemente misterioso. Buscamos utilizar uma linguagem simples e descontraída, que remeta ao universo dos RPGs e faça o usuário sentir que está entrando em um novo universo de aventuras. Nossa comunicação evita ser excessivamente formal e busca aproximar jogadores e mestres da experiência do aplicativo.
+
 
 ### Proposta de Valor
 
