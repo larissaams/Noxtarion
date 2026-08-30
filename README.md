@@ -2,11 +2,12 @@
 
 *Integrantes:*
 
-  Anny Elly -- RM:565055
+  - Anny Elly -- RM:565055
 
-  Larissa -- RM:564168
+  - Larissa -- RM:564168
 
-  Raira -- RM:564850
+  - Raira -- RM:564850
+  
 ##  Naming Rationale
 
 Escolhemos o nome Noxtarion por transmitir uma sensação de fantasia, mistério e aventura, elementos que fazem parte do universo dos RPGs. Também queremos que o nome represente a proposta do aplicativo de ser mais do que uma ferramenta para organizar fichas: Noxtarion funciona como um ponto de encontro entre jogadores, mestres, campanhas e histórias. A ideia é criar um universo onde diferentes aventuras possam ser criadas, gerenciadas, compartilhadas e descobertas.
@@ -88,3 +89,13 @@ noxtarion
 
 Noxtarion: sua mesa, sua história, seu universo. 
 
+
+### Papel de cada integrante
+
+Brainstorm: **Todas** (Anny, Larissa e Raira)
+
+1 — Pesquisa, problema e documentação no GitHub: **Larissa**
+
+2 — Marca, identidade visual e pitch: **Anny**
+
+3 — Desenvolvimento Flutter e instruções de execução: **Raira**
