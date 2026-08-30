@@ -68,3 +68,13 @@ noxtarion
 ├── pubspec.yaml
 └── README.md
 ```
+
+
+
+### proposta comercial.
+
+ O Noxtarion é uma plataforma completa para RPG que conecta jogadores, mestres, campanhas e histórias em um único lugar. Por que ele existiria? Porque a experiência de RPG utiliza diferentes ferramentas para fichas, anotações, mapas, arquivos, chamadas e conteúdo. O Noxtarion reúne tudo isso em uma única plataforma, tornando a experiência mais organizada e prática.
+ Utilizamos um modelo Freemium: oferecemos os principais recursos gratuitamente e disponibilizamos funcionalidades avançadas por meio de um plano Premium, além de possíveis anúncios e parcerias com empresas e criadores do universo RPG. Qual é o nosso diferencial? O Noxtarion não é apenas uma ferramenta para criar fichas. Ele permite jogar, organizar, compartilhar e descobrir RPGs dentro do mesmo ambiente.
+
+Noxtarion: sua mesa, sua história, seu universo. 
+
