@@ -69,7 +69,17 @@ noxtarion
 └── README.md
 ```
 
+### Paletas de cores 
+```
+# 1D201E --> Preto (Cor base)
+# 2c253e --> Roxo Escuro (Cor principal)
+# 3c2a5e --> Roxo (detalhes)
+# 7a2dc4 --> Roxo claro (Contraste)
+# ce53e0 --> violeta claro (detalhes)
+# d3af37 --> amarelo (detalhes)
+# F7F9EC --> Branco (Texto)
 
+```
 
 ## Proposta comercial
 
